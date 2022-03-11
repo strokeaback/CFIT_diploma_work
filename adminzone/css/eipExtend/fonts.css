@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'Open Sans';
+	src: url("/adminzone/css/fonts/opensans/Regular/OpenSans-Regular.eot?v=1.1.0");
+	src: url("/adminzone/css/fonts/opensans/Regular/OpenSans-Regular.eot?#iefix&v=1.1.0") format("embedded-opentype"),
+	url("/adminzone/css/fonts/opensans/Regular/OpenSans-Regular.woff?v=1.1.0") format("woff"),
+	url("/adminzone/css/fonts/opensans/Regular/OpenSans-Regular.ttf?v=1.1.0") format("truetype"),
+	url("/adminzone/css/fonts/opensans/Regular/OpenSans-Regular.svg?v=1.1.0#OpenSansBold") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'GothaProLight';
+	src: url('/adminzone/css/fonts/gotha/GothaProLight.eot'),
+	url('/adminzone/css/fonts/gotha/GothaProLight.eot') format('embedded-opentype'),
+	url('/adminzone/css/fonts/gotha/GothaProLight.woff2') format('woff2'),
+	url('/adminzone/css/fonts/gotha/GothaProLight.woff') format('woff'),
+	url('/adminzone/css/fonts/gotha/GothaProLight.ttf') format('truetype'),
+	url('/adminzone/css/fonts/gotha/GothaProLight.svg#GothaProLight') format('svg');
+}
